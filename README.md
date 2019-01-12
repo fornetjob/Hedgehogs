@@ -2,6 +2,10 @@
 
 [Постановка задачи](https://github.com/fornetjob/Hedgehogs/blob/master/Hedgehogs/Assets/Documentation/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.pdf)
 
+## Видео геймплея
+
+[![Alt text](https://img.youtube.com/vi/eMZkgi8E3sk/0.jpg)](https://www.youtube.com/watch?v=eMZkgi8E3sk)
+
 ## Разработано с использованием
 
 [Unity 2018.3.1](https://unity3d.com/ru/unity/whats-new/2018.3.1) - ведущая в мире платформа для создания кросплатформенных игр и приложений
